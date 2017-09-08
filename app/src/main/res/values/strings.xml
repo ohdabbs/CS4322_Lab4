@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CS4322_Lab4</string>
+    <string name="username_text">User Name</string>
+    <string name="password_text">Password</string>
+    <string name="login_text">Login</string>
+    <string name="authenticate_text">cs4322, Welcome to my webpage!</string>
+    <string name="failed_text">Authentication failed.  Please try again!</string>
+    <string name="failed_button_text">Go Back</string>
+</resources>
